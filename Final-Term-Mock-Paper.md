@@ -11,7 +11,7 @@
   * [Section B – Linux OS & Processes](#section-b--linux-os--processes)
   * [Section C – Bash Scripting](#section-c--bash-scripting)
   * [Section D – Windows CMD Scripting](#section-d--windows-cmd-scripting)
-  * [Section E – Regular Expressions](#section-e--regular-expressions)
+  * [Section E – Regular Expressions](#section-e--regular-expressions-linux--windows)
 * [How to Use This Mock Final](#how-to-use-this-mock-final)
 * [Additional Resources](#additional-resources)
 
