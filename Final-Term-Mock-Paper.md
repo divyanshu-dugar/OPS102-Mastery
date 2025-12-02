@@ -50,8 +50,6 @@ This mock exam includes questions from:
 
 ### **Section A – Windows OS & Processes**
 
-*(Matches Lab 6 difficulty & structure)*
-
 1. Using the **systeminfo** command, determine:
    a) The exact CPU model
    b) Total installed physical memory
@@ -86,8 +84,6 @@ This mock exam includes questions from:
 
 ### **Section B – Linux OS & Processes**
 
-*(Matches Lab 6 Linux section)*
-
 7. View `/proc/cpuinfo`.
 
    * How many processors/cores are available?
@@ -117,8 +113,6 @@ for ((x=0; x<20000; x++)) ; do sleep 0.01 ; done &
 
 
 ### **Section C – Bash Scripting**
-
-*(Matches Labs 7 & 8)*
 
 12. Write a bash script `info.sh` that displays:
 
@@ -159,8 +153,6 @@ c) Does it include subdirectories?
 
 ### **Section D – Windows CMD Scripting**
 
-*(Matches Lab 9)*
-
 15. Explain what this script does:
 
 ```
@@ -186,8 +178,6 @@ b) Why are parentheses needed?
 
 
 ### **Section E – Regular Expressions (Linux + Windows)**
-
-*(Matches Lab 10)*
 
 17. Using grep with a regex, find all lines in `/etc/services` that refer to **SSH** (case insensitive).
 
