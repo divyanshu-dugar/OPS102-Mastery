@@ -2,7 +2,7 @@
 
 ## 📚 Table of Contents
 
-* [Overview](https://github.com/divyanshu-dugar/OPS102-Mastery/new/main#-overview)
+* [Overview](#-overview)
 * [Instructions](#-instructions)
 * [Topics Covered](#-topics-covered)
 * [Mock Final Exam Questions](#-mock-final-exam-questions)
