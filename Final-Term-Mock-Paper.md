@@ -198,7 +198,7 @@ b) Why are parentheses needed?
 * Bring any questions to the next review session
 
 <details>
-<summary>Self Evualution (Self-Marking Checklist)</summary>
+<summary>Self Evaluation (Self-Marking Checklist)</summary>
 
 ## 🟦 **Section A – Windows OS & Processes**
 
