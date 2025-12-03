@@ -197,4 +197,143 @@ b) Why are parentheses needed?
 * Complete the exam fully at home for best results
 * Bring any questions to the next review session
 
+<details>
+<summary>Self Evualution (Self-Marking Checklist)</summary>
 
+## 🟦 **Section A – Windows OS & Processes**
+
+### **1. systeminfo**
+
+* [ ] Identified CPU model ✔/❌/❓
+* [ ] Found total physical memory ✔/❌/❓
+* [ ] Found available physical memory ✔/❌/❓
+
+### **2. tasklist + Camera**
+
+* [ ] Found Camera process ✔/❌/❓
+* [ ] Recorded PID ✔/❌/❓
+* [ ] Recorded memory usage ✔/❌/❓
+
+### **3. taskkill**
+
+* [ ] Terminated by PID ✔/❌/❓
+* [ ] Used `/F` if required ✔/❌/❓
+* [ ] Explained why `/F` is needed ✔/❌/❓
+
+### **4. Restart Camera**
+
+* [ ] Explained why PID changed ✔/❌/❓
+
+### **5. PowerShell**
+
+* [ ] Used `get-process` ✔/❌/❓
+* [ ] Recorded PID, WS, CPU Time ✔/❌/❓
+
+### **6. stop-process**
+
+* [ ] Terminated Camera using PowerShell ✔/❌/❓
+
+
+
+## 🟦 **Section B – Linux OS & Processes**
+
+### **7. /proc/cpuinfo**
+
+* [ ] Counted total CPUs ✔/❌/❓
+
+### **8. top command**
+
+* [ ] Found total memory ✔/❌/❓
+* [ ] Found available memory ✔/❌/❓
+* [ ] Found CPU idle % ✔/❌/❓
+
+### **9. Sorting**
+
+* [ ] Identified top 3 CPU-consuming processes ✔/❌/❓
+* [ ] Identified top 3 memory-consuming processes ✔/❌/❓
+
+### **10. Bash loop**
+
+* [ ] Started background loop ✔/❌/❓
+* [ ] Found its PID ✔/❌/❓
+* [ ] Terminated it with kill ✔/❌/❓
+
+### **11. killall explanation**
+
+* [ ] Explained why killall is unsafe ✔/❌/❓
+
+
+
+## 🟦 **Section C – Bash Scripting**
+
+### **12. info.sh**
+
+* [ ] Displayed user ✔/❌/❓
+* [ ] Displayed current directory ✔/❌/❓
+* [ ] Checked if directory = HOME ✔/❌/❓
+* [ ] Displayed disk usage ✔/❌/❓
+* [ ] Displayed time ✔/❌/❓
+* [ ] Script output is aligned ✔/❌/❓
+
+### **13. File-counting loop**
+
+* [ ] Explained what script outputs ✔/❌/❓
+* [ ] Explained what it counts ✔/❌/❓
+* [ ] Noted that subdirectories aren’t included ✔/❌/❓
+
+### **14. Enhanced counting script**
+
+* [ ] Counted regular files ✔/❌/❓
+* [ ] Counted directories ✔/❌/❓
+* [ ] Counted symlinks ✔/❌/❓
+* [ ] Counted total ✔/❌/❓
+* [ ] Formatted output ✔/❌/❓
+
+
+
+## 🟦 **Section D – Windows CMD Scripting**
+
+### **15. CMD file counter**
+
+* [ ] Explained script purpose ✔/❌/❓
+* [ ] Explained why parentheses are required ✔/❌/❓
+
+### **16. backup.cmd**
+
+* [ ] Asked user for directory ✔/❌/❓
+* [ ] Checked if directory exists ✔/❌/❓
+* [ ] Created directory if not ✔/❌/❓
+* [ ] Copied all files ✔/❌/❓
+* [ ] Printed each copied name ✔/❌/❓
+* [ ] Counted total files ✔/❌/❓
+
+
+
+## 🟦 **Section E – Regular Expressions**
+
+### **17. grep + SSH**
+
+* [ ] Used case-insensitive grep ✔/❌/❓
+
+### **18. findstr + memory filter**
+
+* [ ] Wrote correct regex for <100,000 K ✔/❌/❓
+
+### **19. driverquery**
+
+* [ ] Filtered SMB (case-insensitive) ✔/❌/❓
+* [ ] Filtered DriverType = Kernel ✔/❌/❓
+
+
+
+# ⭐ Self-Evaluation Summary
+
+### How confident do you feel after marking yourself?
+
+* [ ] ⭐⭐⭐⭐⭐ Very Confident
+* [ ] ⭐⭐⭐⭐ Confident
+* [ ] ⭐⭐⭐ Neutral
+* [ ] ⭐⭐ Need more practice
+* [ ] ⭐ Still confused
+
+</details>
